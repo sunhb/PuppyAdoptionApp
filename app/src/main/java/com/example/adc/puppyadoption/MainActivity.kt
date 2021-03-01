@@ -45,8 +45,6 @@ class MainActivity : AppCompatActivity() {
             super.onBackPressed()
         }
     }
-
-
 }
 
 // Start building your app here!
